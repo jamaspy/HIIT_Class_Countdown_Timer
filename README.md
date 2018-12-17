@@ -6,7 +6,7 @@ Some of the code is duplicated and I can see areas where I can create functions 
 
 # The Aim Of The Game
 Guess (by clicking on the coloured square) the randomly generated RBG Number shown at the top.
-You can chose easy mode (3 Sqaures) or hard mode (6 squares). Adding more modes could be something to think about when I refactor it. 
+You can choose easy mode (3 Sqaures) or hard mode (6 squares). Adding more modes could be something to think about when I refactor it. 
 
 Thanks
 
